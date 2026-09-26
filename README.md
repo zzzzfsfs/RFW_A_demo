@@ -670,7 +670,7 @@ Accessories_glasses_seed_0005.gif,Accessories_glasses,0005
 The repository is ~2.1 GB of binary data, so a shallow clone is recommended:
 
 ```bash
-git clone --depth 1 https://github.com/zzzzfsfs/articulated-object-gifs.git
+git clone --depth 1 https://github.com/zzzzfsfs/RFW-A.git
 ```
 
 ## Notes
