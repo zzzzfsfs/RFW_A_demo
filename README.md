@@ -9,8 +9,8 @@ Tiles are lightweight 160x160 previews kept in [`thumbs/`](thumbs/); the full-re
 
 <table>
 <tr>
-<td align="center"><a href="gifs/Other_Air_conditioner_seed_0023.gif"><img src="thumbs/Other_Air_conditioner_seed_0023.gif" width="160" alt="Other_Air_conditioner"></a><br><code>Other_Air_conditioner</code></td>
-<td align="center"><a href="gifs/Urban_Environment_Caster_Trolley_seed_0142.gif"><img src="thumbs/Urban_Environment_Caster_Trolley_seed_0142.gif" width="160" alt="Urban_Environment_Caster_Trolley"></a><br><code>Urban_Environment_Caster_Trolley</code></td>
+<td align="center"><a href="gifs/ferris_wheel_seed_0409.gif"><img src="thumbs/ferris_wheel_seed_0409.gif" width="160" alt="ferris_wheel"></a><br><code>ferris_wheel</code></td>
+<td align="center"><a href="gifs/revolving_door_seed_0103.gif"><img src="thumbs/revolving_door_seed_0103.gif" width="160" alt="revolving_door"></a><br><code>revolving_door</code></td>
 <td align="center"><a href="gifs/Container_Barrel_seed_0832.gif"><img src="thumbs/Container_Barrel_seed_0832.gif" width="160" alt="Container_Barrel"></a><br><code>Container_Barrel</code></td>
 <td align="center"><a href="gifs/Sports_Baby_cycle_seed_0006.gif"><img src="thumbs/Sports_Baby_cycle_seed_0006.gif" width="160" alt="Sports_Baby_cycle"></a><br><code>Sports_Baby_cycle</code></td>
 </tr>
@@ -33,13 +33,13 @@ Tiles are lightweight 160x160 previews kept in [`thumbs/`](thumbs/); the full-re
 <td align="center"><a href="gifs/Stationary_Calculater_seed_0007.gif"><img src="thumbs/Stationary_Calculater_seed_0007.gif" width="160" alt="Stationary_Calculater"></a><br><code>Stationary_Calculater</code></td>
 </tr>
 <tr>
-<td align="center"><a href="gifs/Healthcare_Adjustable_hospital_bed_seed_0036.gif"><img src="thumbs/Healthcare_Adjustable_hospital_bed_seed_0036.gif" width="160" alt="Healthcare_Adjustable_hospital_bed"></a><br><code>Healthcare_Adjustable_hospital_bed</code></td>
+<td align="center"><a href="gifs/Astronomy_Space_shuttle_seed_0372.gif"><img src="thumbs/Astronomy_Space_shuttle_seed_0372.gif" width="160" alt="Astronomy_Space_shuttle"></a><br><code>Astronomy_Space_shuttle</code></td>
 <td align="center"><a href="gifs/Music_Amplifier_seed_0052.gif"><img src="thumbs/Music_Amplifier_seed_0052.gif" width="160" alt="Music_Amplifier"></a><br><code>Music_Amplifier</code></td>
 <td align="center"><a href="gifs/Bag_Suitcase_Box_seed_0977.gif"><img src="thumbs/Bag_Suitcase_Box_seed_0977.gif" width="160" alt="Bag_Suitcase_Box"></a><br><code>Bag_Suitcase_Box</code></td>
 <td align="center"><a href="gifs/Playground_Seesaw_seed_0074.gif"><img src="thumbs/Playground_Seesaw_seed_0074.gif" width="160" alt="Playground_Seesaw"></a><br><code>Playground_Seesaw</code></td>
 </tr>
 <tr>
-<td align="center"><a href="gifs/Cabinet_with_doors_seed_1915.gif"><img src="thumbs/Cabinet_with_doors_seed_1915.gif" width="160" alt="Cabinet_with_doors"></a><br><code>Cabinet_with_doors</code></td>
+<td align="center"><a href="gifs/Bar_Piano_seed_0014.gif"><img src="thumbs/Bar_Piano_seed_0014.gif" width="160" alt="Bar_Piano"></a><br><code>Bar_Piano</code></td>
 <td align="center"><a href="gifs/Bathroom_Hair_dryer_seed_1942.gif"><img src="thumbs/Bathroom_Hair_dryer_seed_1942.gif" width="160" alt="Bathroom_Hair_dryer"></a><br><code>Bathroom_Hair_dryer</code></td>
 <td align="center"><a href="gifs/Other_Vent_seed_0220.gif"><img src="thumbs/Other_Vent_seed_0220.gif" width="160" alt="Other_Vent"></a><br><code>Other_Vent</code></td>
 <td align="center"><a href="gifs/Urban_Environment_Public_toilet_seed_0325.gif"><img src="thumbs/Urban_Environment_Public_toilet_seed_0325.gif" width="160" alt="Urban_Environment_Public_toilet"></a><br><code>Urban_Environment_Public_toilet</code></td>
