@@ -2,6 +2,86 @@
 
 1066 animated previews of articulated 3D objects, covering 531 object categories.
 
+## Gallery
+
+48 representative clips, one per tile. Click any tile to open the full-size 384x384 GIF.
+Tiles are lightweight 160x160 previews kept in [`thumbs/`](thumbs/); the full-resolution originals live in [`gifs/`](gifs/).
+
+<table>
+<tr>
+<td align="center"><a href="gifs/Other_Air_conditioner_seed_0023.gif"><img src="thumbs/Other_Air_conditioner_seed_0023.gif" width="160" alt="Other_Air_conditioner"></a><br><code>Other_Air_conditioner</code></td>
+<td align="center"><a href="gifs/Urban_Environment_Caster_Trolley_seed_0142.gif"><img src="thumbs/Urban_Environment_Caster_Trolley_seed_0142.gif" width="160" alt="Urban_Environment_Caster_Trolley"></a><br><code>Urban_Environment_Caster_Trolley</code></td>
+<td align="center"><a href="gifs/Container_Barrel_seed_0832.gif"><img src="thumbs/Container_Barrel_seed_0832.gif" width="160" alt="Container_Barrel"></a><br><code>Container_Barrel</code></td>
+<td align="center"><a href="gifs/Sports_Baby_cycle_seed_0006.gif"><img src="thumbs/Sports_Baby_cycle_seed_0006.gif" width="160" alt="Sports_Baby_cycle"></a><br><code>Sports_Baby_cycle</code></td>
+</tr>
+<tr>
+<td align="center"><a href="gifs/Handtools_Clamp_seed_0017.gif"><img src="thumbs/Handtools_Clamp_seed_0017.gif" width="160" alt="Handtools_Clamp"></a><br><code>Handtools_Clamp</code></td>
+<td align="center"><a href="gifs/Technology_Audio_Device_seed_1388.gif"><img src="thumbs/Technology_Audio_Device_seed_1388.gif" width="160" alt="Technology_Audio_Device"></a><br><code>Technology_Audio_Device</code></td>
+<td align="center"><a href="gifs/Door_Door_seed_0025.gif"><img src="thumbs/Door_Door_seed_0025.gif" width="160" alt="Door_Door"></a><br><code>Door_Door</code></td>
+<td align="center"><a href="gifs/Folding_ruler_seed_0109.gif"><img src="thumbs/Folding_ruler_seed_0109.gif" width="160" alt="Folding_ruler"></a><br><code>Folding_ruler</code></td>
+</tr>
+<tr>
+<td align="center"><a href="gifs/Military_Aircraft_seed_0024.gif"><img src="thumbs/Military_Aircraft_seed_0024.gif" width="160" alt="Military_Aircraft"></a><br><code>Military_Aircraft</code></td>
+<td align="center"><a href="gifs/Astronomy_Antenna_dish_seed_0130.gif"><img src="thumbs/Astronomy_Antenna_dish_seed_0130.gif" width="160" alt="Astronomy_Antenna_dish"></a><br><code>Astronomy_Antenna_dish</code></td>
+<td align="center"><a href="gifs/Industrial_Blast_door_seed_0024.gif"><img src="thumbs/Industrial_Blast_door_seed_0024.gif" width="160" alt="Industrial_Blast_door"></a><br><code>Industrial_Blast_door</code></td>
+<td align="center"><a href="gifs/Kitchen_Air_fryer_seed_0020.gif"><img src="thumbs/Kitchen_Air_fryer_seed_0020.gif" width="160" alt="Kitchen_Air_fryer"></a><br><code>Kitchen_Air_fryer</code></td>
+</tr>
+<tr>
+<td align="center"><a href="gifs/Electrical_Wiring_Cable_reel_seed_0001.gif"><img src="thumbs/Electrical_Wiring_Cable_reel_seed_0001.gif" width="160" alt="Electrical_Wiring_Cable_reel"></a><br><code>Electrical_Wiring_Cable_reel</code></td>
+<td align="center"><a href="gifs/Equipment_Control_panel_seed_2578.gif"><img src="thumbs/Equipment_Control_panel_seed_2578.gif" width="160" alt="Equipment_Control_panel"></a><br><code>Equipment_Control_panel</code></td>
+<td align="center"><a href="gifs/Science_Capsule_seed_0019.gif"><img src="thumbs/Science_Capsule_seed_0019.gif" width="160" alt="Science_Capsule"></a><br><code>Science_Capsule</code></td>
+<td align="center"><a href="gifs/Stationary_Calculater_seed_0007.gif"><img src="thumbs/Stationary_Calculater_seed_0007.gif" width="160" alt="Stationary_Calculater"></a><br><code>Stationary_Calculater</code></td>
+</tr>
+<tr>
+<td align="center"><a href="gifs/Healthcare_Adjustable_hospital_bed_seed_0036.gif"><img src="thumbs/Healthcare_Adjustable_hospital_bed_seed_0036.gif" width="160" alt="Healthcare_Adjustable_hospital_bed"></a><br><code>Healthcare_Adjustable_hospital_bed</code></td>
+<td align="center"><a href="gifs/Music_Amplifier_seed_0052.gif"><img src="thumbs/Music_Amplifier_seed_0052.gif" width="160" alt="Music_Amplifier"></a><br><code>Music_Amplifier</code></td>
+<td align="center"><a href="gifs/Bag_Suitcase_Box_seed_0977.gif"><img src="thumbs/Bag_Suitcase_Box_seed_0977.gif" width="160" alt="Bag_Suitcase_Box"></a><br><code>Bag_Suitcase_Box</code></td>
+<td align="center"><a href="gifs/Playground_Seesaw_seed_0074.gif"><img src="thumbs/Playground_Seesaw_seed_0074.gif" width="160" alt="Playground_Seesaw"></a><br><code>Playground_Seesaw</code></td>
+</tr>
+<tr>
+<td align="center"><a href="gifs/Cabinet_with_doors_seed_1915.gif"><img src="thumbs/Cabinet_with_doors_seed_1915.gif" width="160" alt="Cabinet_with_doors"></a><br><code>Cabinet_with_doors</code></td>
+<td align="center"><a href="gifs/Bathroom_Hair_dryer_seed_1942.gif"><img src="thumbs/Bathroom_Hair_dryer_seed_1942.gif" width="160" alt="Bathroom_Hair_dryer"></a><br><code>Bathroom_Hair_dryer</code></td>
+<td align="center"><a href="gifs/Other_Vent_seed_0220.gif"><img src="thumbs/Other_Vent_seed_0220.gif" width="160" alt="Other_Vent"></a><br><code>Other_Vent</code></td>
+<td align="center"><a href="gifs/Urban_Environment_Public_toilet_seed_0325.gif"><img src="thumbs/Urban_Environment_Public_toilet_seed_0325.gif" width="160" alt="Urban_Environment_Public_toilet"></a><br><code>Urban_Environment_Public_toilet</code></td>
+</tr>
+<tr>
+<td align="center"><a href="gifs/Container_Jar_seed_0042.gif"><img src="thumbs/Container_Jar_seed_0042.gif" width="160" alt="Container_Jar"></a><br><code>Container_Jar</code></td>
+<td align="center"><a href="gifs/Sports_Roller_scates_seed_0007.gif"><img src="thumbs/Sports_Roller_scates_seed_0007.gif" width="160" alt="Sports_Roller_scates"></a><br><code>Sports_Roller_scates</code></td>
+<td align="center"><a href="gifs/Air_blower_seed_0129.gif"><img src="thumbs/Air_blower_seed_0129.gif" width="160" alt="Air_blower"></a><br><code>Air_blower</code></td>
+<td align="center"><a href="gifs/Fountain_Drick_fountain_seed_0262.gif"><img src="thumbs/Fountain_Drick_fountain_seed_0262.gif" width="160" alt="Fountain_Drick_fountain"></a><br><code>Fountain_Drick_fountain</code></td>
+</tr>
+<tr>
+<td align="center"><a href="gifs/Machinery_Watermill_seed_0225.gif"><img src="thumbs/Machinery_Watermill_seed_0225.gif" width="160" alt="Machinery_Watermill"></a><br><code>Machinery_Watermill</code></td>
+<td align="center"><a href="gifs/badge_id_holder_clip_seed_0095.gif"><img src="thumbs/badge_id_holder_clip_seed_0095.gif" width="160" alt="badge_id_holder_clip"></a><br><code>badge_id_holder_clip</code></td>
+<td align="center"><a href="gifs/bookcase2_seed_0261.gif"><img src="thumbs/bookcase2_seed_0261.gif" width="160" alt="bookcase2"></a><br><code>bookcase2</code></td>
+<td align="center"><a href="gifs/car_axles_seed_0112.gif"><img src="thumbs/car_axles_seed_0112.gif" width="160" alt="car_axles"></a><br><code>car_axles</code></td>
+</tr>
+<tr>
+<td align="center"><a href="gifs/coaxial_rotary_stack_seed_0119.gif"><img src="thumbs/coaxial_rotary_stack_seed_0119.gif" width="160" alt="coaxial_rotary_stack"></a><br><code>coaxial_rotary_stack</code></td>
+<td align="center"><a href="gifs/drafting_table_with_adjustable_tilt_surface_seed_0145.gif"><img src="thumbs/drafting_table_with_adjustable_tilt_surface_seed_0145.gif" width="160" alt="drafting_table_with_adjustable_tilt_surface"></a><br><code>drafting_table_with_adjustable_tilt_surface</code></td>
+<td align="center"><a href="gifs/fingerlike_phalanx_chain_seed_0056.gif"><img src="thumbs/fingerlike_phalanx_chain_seed_0056.gif" width="160" alt="fingerlike_phalanx_chain"></a><br><code>fingerlike_phalanx_chain</code></td>
+<td align="center"><a href="gifs/greenhouse_vent_roof_seed_0030.gif"><img src="thumbs/greenhouse_vent_roof_seed_0030.gif" width="160" alt="greenhouse_vent_roof"></a><br><code>greenhouse_vent_roof</code></td>
+</tr>
+<tr>
+<td align="center"><a href="gifs/industrial_crane_featuring_advanced_hydraulic_seed_0003.gif"><img src="thumbs/industrial_crane_featuring_advanced_hydraulic_seed_0003.gif" width="160" alt="industrial_crane_featuring_advanced_hydraulic"></a><br><code>industrial_crane_featuring_advanced_hydraulic</code></td>
+<td align="center"><a href="gifs/louvered_shutter_assembly_seed_0576.gif"><img src="thumbs/louvered_shutter_assembly_seed_0576.gif" width="160" alt="louvered_shutter_assembly"></a><br><code>louvered_shutter_assembly</code></td>
+<td align="center"><a href="gifs/mechanical_timer_with_rotating_dial_seed_0142.gif"><img src="thumbs/mechanical_timer_with_rotating_dial_seed_0142.gif" width="160" alt="mechanical_timer_with_rotating_dial"></a><br><code>mechanical_timer_with_rotating_dial</code></td>
+<td align="center"><a href="gifs/overhead_projector_with_articulating_mirror_seed_0009.gif"><img src="thumbs/overhead_projector_with_articulating_mirror_seed_0009.gif" width="160" alt="overhead_projector_with_articulating_mirror"></a><br><code>overhead_projector_with_articulating_mirror</code></td>
+</tr>
+<tr>
+<td align="center"><a href="gifs/pilers_needle_nose_pliers_seed_0044.gif"><img src="thumbs/pilers_needle_nose_pliers_seed_0044.gif" width="160" alt="pilers_needle_nose_pliers"></a><br><code>pilers_needle_nose_pliers</code></td>
+<td align="center"><a href="gifs/ratchet_strap_seed_0012.gif"><img src="thumbs/ratchet_strap_seed_0012.gif" width="160" alt="ratchet_strap"></a><br><code>ratchet_strap</code></td>
+<td align="center"><a href="gifs/rope_pulley_seed_0007.gif"><img src="thumbs/rope_pulley_seed_0007.gif" width="160" alt="rope_pulley"></a><br><code>rope_pulley</code></td>
+<td align="center"><a href="gifs/sewing_machine_seed_0005.gif"><img src="thumbs/sewing_machine_seed_0005.gif" width="160" alt="sewing_machine"></a><br><code>sewing_machine</code></td>
+</tr>
+<tr>
+<td align="center"><a href="gifs/soft_pneumatic_gripper_seed_0020.gif"><img src="thumbs/soft_pneumatic_gripper_seed_0020.gif" width="160" alt="soft_pneumatic_gripper"></a><br><code>soft_pneumatic_gripper</code></td>
+<td align="center"><a href="gifs/telescoping_boom_seed_2840.gif"><img src="thumbs/telescoping_boom_seed_2840.gif" width="160" alt="telescoping_boom"></a><br><code>telescoping_boom</code></td>
+<td align="center"><a href="gifs/turnstile_gates_seed_0020.gif"><img src="thumbs/turnstile_gates_seed_0020.gif" width="160" alt="turnstile_gates"></a><br><code>turnstile_gates</code></td>
+<td align="center"><a href="gifs/water_filter_pump_seed_0154.gif"><img src="thumbs/water_filter_pump_seed_0154.gif" width="160" alt="water_filter_pump"></a><br><code>water_filter_pump</code></td>
+</tr>
+</table>
+
 ## Specs
 
 | Property | Value |
@@ -19,6 +99,7 @@
 
 ```
 gifs/          # all 1066 clips, flat
+thumbs/        # 48 lightweight 160x160 previews used by the gallery above
 manifest.csv   # per-clip category lookup
 ```
 
@@ -595,4 +676,5 @@ git clone --depth 1 https://github.com/zzzzfsfs/articulated-object-gifs.git
 ## Notes
 
 - Clips are stored byte-for-byte as rendered; nothing is re-encoded.
+- `thumbs/` contains downscaled derivatives (160 x 160, 10 fps, 64-colour palette) generated from the originals purely so the gallery above loads quickly. They are not part of the dataset.
 - Each GIF contains only the standard `NETSCAPE2.0` looping extension block. There is no EXIF, XMP, comment or trailing data in any file.
